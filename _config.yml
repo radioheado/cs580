@@ -1,5 +1,6 @@
 title: Introduction to Artificial Intelligence
-description: This is the course website for **CS580: Introduction to Artificial Intelligence**
-theme: just-the-docs
+description: "This is the course website for CS580: Introduction to Artificial Intelligence"
+baseurl: "/cs580" # the subpath of your site, e.g. /blog
+url: "https://radioheado.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: cs580 # for github-metadata
 
-baseurl: /cs580
