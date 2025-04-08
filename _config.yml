@@ -1,6 +1,17 @@
-title: Introduction to Artificial Intelligence
+title: "Introduction to Artificial Intelligence"
 description: "This is the course website for CS580: Introduction to Artificial Intelligence"
-baseurl: "/cs580" # the subpath of your site, e.g. /blog
-url: "https://radioheado.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: cs580 # for github-metadata
-
+baseurl: "/cs580"
+url: "https://radioheado.github.io"
+repository: radioheado/cs580
+theme: "just-the-docs"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-archives
+  - jemoji
+  - jekyll-gist
+  - jekyll-assets
+  - jekyll-redirect-from
