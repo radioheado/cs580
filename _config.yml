@@ -2,10 +2,4 @@ title: Introduction to Artificial Intelligence
 description: This is the course website for **CS580: Introduction to Artificial Intelligence**
 theme: just-the-docs
 
-url: https://radioheado.github.io
-baseurl: "/cs580"
-
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
+baseurl: /cs580
