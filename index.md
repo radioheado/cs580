@@ -8,9 +8,5 @@ nav_exclude: true
 
 Welcome to CS580! Below you'll find the course syllabus including policies, schedule, and expectations.
 
-## Instructor
-**Professor Moseberry**  
-Email: [cmoseber@gmu.edu](mailto:cmoseber@gmu.edu)
-
 ## Course Description
 This course introduces core concepts in Artificial Intelligence, including search, knowledge representation, reasoning, machine learning, and ethics in AI.

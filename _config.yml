@@ -5,6 +5,27 @@ url: "https://radioheado.github.io"
 repository: radioheado/cs580
 theme: "just-the-docs"
 color_scheme: blue
+show_last_modified_time: true
+last_modified_time_label: "Last updated:"
+last_modified_time_format: "%b %-d, %Y"
+
+callouts:
+  important:
+    title: "Important"
+    color: red
+  note:
+    title: "Note"
+    color: purple
+  warning:
+    title: "Warning"
+    color: yellow
+  assignment:
+    title: "Assignment"
+    color: blue
+  highlight:
+    title: "Highlight"
+    color: green
+
 
 
 # Set a path/url to a logo that will be displayed instead of the title
