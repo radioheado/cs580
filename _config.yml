@@ -1,17 +1,17 @@
-title: "Introduction to Artificial Intelligence"
+title: "CS580: Intro to AI"
 description: "This is the course website for CS580: Introduction to Artificial Intelligence"
 baseurl: "/cs580"
 url: "https://radioheado.github.io"
 repository: radioheado/cs580
 theme: "just-the-docs"
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-archives
-  - jemoji
-  - jekyll-gist
-  - jekyll-assets
-  - jekyll-redirect-from
+color_scheme: blue
+
+
+# Set a path/url to a logo that will be displayed instead of the title
+# logo: "/assets/images/GMU.png"
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/GMU.png"
+
+# Footer credits
+footer_content: "Built by <a href=\"https://github.com/radioheado\">Juan Huang</a> with the <a href=\"https://github.com/just-the-docs/just-the-docs\">Just the Docs</a> theme."

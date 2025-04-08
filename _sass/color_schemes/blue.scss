@@ -1,0 +1,16 @@
+// _sass/color_schemes/blue.scss
+
+// Base blue color
+$blue-accent: #2ea8ff; // tailwind blue-600
+
+// Sidebar and link styling
+$nav-link-color: $blue-accent;
+$nav-link-active-color: $blue-accent;
+$nav-link-hover-color: darken($blue-accent, 10%);
+$link-color: $blue-accent;
+$btn-primary-color: $blue-accent;
+$nav-list-expander-color: $blue-accent;
+$search-result-preview-color: $blue-accent;
+
+// Optional fallback for $accent-color
+$accent-color: $blue-accent;

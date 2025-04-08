@@ -1,0 +1,10 @@
+.callout.warning {
+    @extend .callout;
+    border-left-color: #f87171; // red-400
+    background-color: #fef2f2;  // red-50
+  }
+  
+  .callout.warning::before {
+    content: "WARNING";
+  }
+  

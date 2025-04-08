@@ -1,0 +1,16 @@
+// _sass/color_schemes/yellow.scss
+
+// Base yellow color
+$yellow-accent: #ecc70d; // similar to tailwind yellow-400
+
+// Sidebar and link styling
+$nav-link-color: $yellow-accent;
+$nav-link-active-color: $yellow-accent;
+$nav-link-hover-color: darken($yellow-accent, 10%);
+$link-color: $yellow-accent;
+$btn-primary-color: $yellow-accent;
+$nav-list-expander-color: $yellow-accent;
+$search-result-preview-color: $yellow-accent;
+
+// Optional fallback for $accent-color
+$accent-color: $yellow-accent;
