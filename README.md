@@ -36,6 +36,14 @@ This repo uses **GitHub Actions** to build and deploy the site with full plugin 
 
 The site will be deployed to: `https://YOUR_USERNAME.github.io/your-repo-name`
 
+### ⚠️ Permission Fix (First-Time Setup)
+If the GitHub Action fails with a `Permission denied to github-actions[bot]` error:
+1. Go to **Settings > Actions > General**
+2. Scroll to **Workflow permissions**
+3. Check **"Read and write permissions"**
+4. Click **Save**
+5. Re-run the failed deployment workflow under the **Actions** tab.
+
 ---
 
 ## ✏️ Customizing Your Site
