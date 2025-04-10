@@ -1,0 +1,338 @@
+{"0": {
+    "doc": "Deep Learning",
+    "title": "Supplemental Videos – Deep Learning",
+    "content": "This page collects introductory materials and video tutorials on deep learning fundamentals and neural networks. ",
+    "url": "/cs580/readings/deep-learning.html#supplemental-videos--deep-learning",
+    
+    "relUrl": "/readings/deep-learning.html#supplemental-videos--deep-learning"
+  },"1": {
+    "doc": "Deep Learning",
+    "title": "Table of Contents",
+    "content": ". | Videos | Articles &amp; Papers | . ",
+    "url": "/cs580/readings/deep-learning.html#table-of-contents",
+    
+    "relUrl": "/readings/deep-learning.html#table-of-contents"
+  },"2": {
+    "doc": "Deep Learning",
+    "title": "Videos",
+    "content": "But what is a neural network? | Deep learning chapter 1 . Gradient descent, how neural networks learn | DL2 . Backpropagation, intuitively | DL3 . ",
+    "url": "/cs580/readings/deep-learning.html#videos",
+    
+    "relUrl": "/readings/deep-learning.html#videos"
+  },"3": {
+    "doc": "Deep Learning",
+    "title": "Articles &amp; Papers",
+    "content": "FPGA vs. GPU for Deep Learning . Artificial intelligence (AI) is evolving rapidly, with new neural network models, techniques, and use cases emerging regularly. While there is no single architecture that works best for all machine and deep learning applications, FPGAs can offer distinct advantages over GPUs and other types of hardware in certain use cases. Read full article here. ",
+    "url": "/cs580/readings/deep-learning.html#articles--papers",
+    
+    "relUrl": "/readings/deep-learning.html#articles--papers"
+  },"4": {
+    "doc": "Deep Learning",
+    "title": "Deep Learning",
+    "content": " ",
+    "url": "/cs580/readings/deep-learning.html",
+    
+    "relUrl": "/readings/deep-learning.html"
+  },"5": {
+    "doc": "Welcome",
+    "title": "CS580: Introduction to Artificial Intelligence",
+    "content": "Welcome to CS580! Below you’ll find the course syllabus including policies, schedule, and expectations. ",
+    "url": "/cs580/#cs580-introduction-to-artificial-intelligence",
+    
+    "relUrl": "/#cs580-introduction-to-artificial-intelligence"
+  },"6": {
+    "doc": "Welcome",
+    "title": "Course Description",
+    "content": "This course introduces core concepts in Artificial Intelligence, including search, knowledge representation, reasoning, machine learning, and ethics in AI. ",
+    "url": "/cs580/#course-description",
+    
+    "relUrl": "/#course-description"
+  },"7": {
+    "doc": "Welcome",
+    "title": "Welcome",
+    "content": " ",
+    "url": "/cs580/",
+    
+    "relUrl": "/"
+  },"8": {
+    "doc": "Lectures",
+    "title": "Lectures",
+    "content": "This page will contain slides, notes, and related resources for each lecture. Files will be posted as they become available. ",
+    "url": "/cs580/lectures.html",
+    
+    "relUrl": "/lectures.html"
+  },"9": {
+    "doc": "Markov Chains",
+    "title": "Supplemental Videos – Markov Chains",
+    "content": "This page contains videos and resources to help you understand Markov chains and their applications in AI. ",
+    "url": "/cs580/readings/markov.html#supplemental-videos--markov-chains",
+    
+    "relUrl": "/readings/markov.html#supplemental-videos--markov-chains"
+  },"10": {
+    "doc": "Markov Chains",
+    "title": "Videos",
+    "content": "Intro to Markov Chains &amp; Transition Diagrams . Markov Chains &amp; Transition Matrices . ",
+    "url": "/cs580/readings/markov.html#videos",
+    
+    "relUrl": "/readings/markov.html#videos"
+  },"11": {
+    "doc": "Markov Chains",
+    "title": "Markov Chains",
+    "content": " ",
+    "url": "/cs580/readings/markov.html",
+    
+    "relUrl": "/readings/markov.html"
+  },"12": {
+    "doc": "Mathematical Foundations",
+    "title": "Mathematical Foundations",
+    "content": "This section provides supplemental resources on mathematical concepts useful for understanding topics in artificial intelligence and computer science. Materials here are especially helpful for review or background support. ",
+    "url": "/cs580/readings/math-foundations.html",
+    
+    "relUrl": "/readings/math-foundations.html"
+  },"13": {
+    "doc": "Mathematical Foundations",
+    "title": "Topics",
+    "content": "Combinations and Permutations . Learn the difference between combinations and permutations, how to compute them, and where they are applied in AI problems involving search, probability, and planning. Learn more details here: Combinations and Permutations . ",
+    "url": "/cs580/readings/math-foundations.html#topics",
+    
+    "relUrl": "/readings/math-foundations.html#topics"
+  },"14": {
+    "doc": "Perspectives & Trends",
+    "title": "Perspectives &amp; Trends",
+    "content": "A collection of selected articles, media features, and expert opinions offering insight into the societal impact, future directions, and ethical considerations surrounding AI. ",
+    "url": "/cs580/readings/perspectives.html#perspectives--trends",
+    
+    "relUrl": "/readings/perspectives.html#perspectives--trends"
+  },"15": {
+    "doc": "Perspectives & Trends",
+    "title": "AI Governance",
+    "content": "CLOUD SECURITY ALLIANCE PUBLICATIONS ON AI/ML . Download AI Governance white papers on AI Trustability, Explainability, SaaS, ChatGPT Security, LLMs, Offensive Security, Risk Management Framework, Zero Trust, Benchmarking, Healthcare here . ",
+    "url": "/cs580/readings/perspectives.html#ai-governance",
+    
+    "relUrl": "/readings/perspectives.html#ai-governance"
+  },"16": {
+    "doc": "Perspectives & Trends",
+    "title": "In the Media",
+    "content": "Inside Elon Musk’s Colossus Supercomputer! . A behind-the-scenes look at xAI’s ambitious infrastructure project. Dr. Neil Degrasse Tyson on “Is Learning Pointless” . A public-facing conversation on education and AI’s role in shaping how we think about learning. The Next Big Thing After Chat-GPT . Reflections and predictions on the post-generative-AI landscape. These resources are not technical but are intended to help you think critically about the broader implications of AI. ",
+    "url": "/cs580/readings/perspectives.html#in-the-media",
+    
+    "relUrl": "/readings/perspectives.html#in-the-media"
+  },"17": {
+    "doc": "Perspectives & Trends",
+    "title": "Perspectives & Trends",
+    "content": " ",
+    "url": "/cs580/readings/perspectives.html",
+    
+    "relUrl": "/readings/perspectives.html"
+  },"18": {
+    "doc": "Reading List",
+    "title": "Reading List – CS580",
+    "content": "This page contains the required and recommended readings for the course. ",
+    "url": "/cs580/reading-list.html#reading-list--cs580",
+    
+    "relUrl": "/reading-list.html#reading-list--cs580"
+  },"19": {
+    "doc": "Reading List",
+    "title": "Required Readings",
+    "content": "Modules . ",
+    "url": "/cs580/reading-list.html#required-readings",
+    
+    "relUrl": "/reading-list.html#required-readings"
+  },"20": {
+    "doc": "Reading List",
+    "title": "Recommended Textbook",
+    "content": ". | Russell &amp; Norvig, Artificial Intelligence: A Modern Approach, 4th Edition | . ",
+    "url": "/cs580/reading-list.html#recommended-textbook",
+    
+    "relUrl": "/reading-list.html#recommended-textbook"
+  },"21": {
+    "doc": "Reading List",
+    "title": "Supplemental Resources",
+    "content": "The following subpages provide curated videos and optional materials to help you better understand specific topics covered in the course. These are not required, but highly recommended if you’d like additional clarification or enrichment. ",
+    "url": "/cs580/reading-list.html#supplemental-resources",
+    
+    "relUrl": "/reading-list.html#supplemental-resources"
+  },"22": {
+    "doc": "Reading List",
+    "title": "Reading List",
+    "content": " ",
+    "url": "/cs580/reading-list.html",
+    
+    "relUrl": "/reading-list.html"
+  },"23": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": "Helpful support services and university policies for students. ",
+    "url": "/cs580/resources.html",
+    
+    "relUrl": "/resources.html"
+  },"24": {
+    "doc": "Resources",
+    "title": "Mason Email Accounts",
+    "content": "Students must activate their Mason email accounts to receive important University information, including messages related to this class. For help with setup, access options, and troubleshooting, visit Mason Email – Office 365 Support. ",
+    "url": "/cs580/resources.html#mason-email-accounts",
+    
+    "relUrl": "/resources.html#mason-email-accounts"
+  },"25": {
+    "doc": "Resources",
+    "title": "Honor Code Policy",
+    "content": "Mason is an Honor Code university. You are expected to abide by the University’s honor code, as well as the CS department Honor Code. ",
+    "url": "/cs580/resources.html#honor-code-policy",
+    
+    "relUrl": "/resources.html#honor-code-policy"
+  },"26": {
+    "doc": "Resources",
+    "title": "Office of Disability Services",
+    "content": "If you are a student with a disability and you need academic accommodation, please see Dr. Tecuci and contact the Office of Disability Services (ODS) at (703) 993-2474. All academic accommodations must be arranged through the ODS: http://ds.gmu.edu/ . ",
+    "url": "/cs580/resources.html#office-of-disability-services",
+    
+    "relUrl": "/resources.html#office-of-disability-services"
+  },"27": {
+    "doc": "Resources",
+    "title": "Other Useful Campus Resources",
+    "content": ". | Writing Center – A114 Robinson Hall; (703) 993-1200; writingcenter.gmu.edu | University Libraries “Ask a Librarian” – library.gmu.edu/ask | Counseling and Psychological Services (CAPS) – (703) 993-2380; caps.gmu.edu | . ",
+    "url": "/cs580/resources.html#other-useful-campus-resources",
+    
+    "relUrl": "/resources.html#other-useful-campus-resources"
+  },"28": {
+    "doc": "Resources",
+    "title": "University Policies",
+    "content": "The University Catalog is the central resource for university policies affecting student, faculty, and staff conduct in university affairs. You may also review the University Policy Website for more information. ",
+    "url": "/cs580/resources.html#university-policies",
+    
+    "relUrl": "/resources.html#university-policies"
+  },"29": {
+    "doc": "Schedule",
+    "title": "Course Schedule – CS580",
+    "content": "This schedule is tentative and subject to change. | Week 1 | Tue, Jan 23 Module 1 - Introduction to Artificial Intelligence | Read Module 1 + Do all knowledge checks Peer Introductions Course Logistics and Introduction Read Chapter 1 Introduction Read Chapter 2 Intelligent Agents Project 0 out | . | Week 2 | Tue, Jan 30 Module 2 - Problem Solving as Search | Read Module 2 + Do all knowledge checks Read Chapter 3 Problem Solving by Search PROJECT 0 DUE on 02/03/25 | . | Week 3 | Tue, Feb 6 Module 3 - Local Search | Read Module 3 + Do all knowledge checks Read Chapter 4 Beyond Classical Search Homework 1 Due on 02/10/25 Project 0 out | . | Week 4 | Tue, Feb 13 Module 4 - Adversarial Search | Quiz #1 (in Class) on Modules 1–3 Read Module 4 + Do all knowledge checks Read Chapter 5 Adversarial Search Project 1 Due on 02/17/25 Homework 2 out | . ",
+    "url": "/cs580/schedules.html#course-schedule--cs580",
+    
+    "relUrl": "/schedules.html#course-schedule--cs580"
+  },"30": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/cs580/schedules.html",
+    
+    "relUrl": "/schedules.html"
+  },"31": {
+    "doc": "Search Algorithms",
+    "title": "Supplemental Videos – Search Algorithms",
+    "content": "This page contains curated videos and materials to help you understand basic search algorithms. ",
+    "url": "/cs580/readings/search.html#supplemental-videos--search-algorithms",
+    
+    "relUrl": "/readings/search.html#supplemental-videos--search-algorithms"
+  },"32": {
+    "doc": "Search Algorithms",
+    "title": "Videos",
+    "content": "Greedy Best First Search . Uniform Cost Search . A* Search . Minimax with Alpha Beta Pruning . ",
+    "url": "/cs580/readings/search.html#videos",
+    
+    "relUrl": "/readings/search.html#videos"
+  },"33": {
+    "doc": "Search Algorithms",
+    "title": "Search Algorithms",
+    "content": " ",
+    "url": "/cs580/readings/search.html",
+    
+    "relUrl": "/readings/search.html"
+  },"34": {
+    "doc": "Staff",
+    "title": "Course Staff – CS580",
+    "content": "Meet the instructional team for CS580. ",
+    "url": "/cs580/staff.html#course-staff--cs580",
+    
+    "relUrl": "/staff.html#course-staff--cs580"
+  },"35": {
+    "doc": "Staff",
+    "title": "Professor",
+    "content": "Clyde Moseberry Email: cmoseber@gmu.edu Office Hours: [TBD] . ",
+    "url": "/cs580/staff.html#professor",
+    
+    "relUrl": "/staff.html#professor"
+  },"36": {
+    "doc": "Staff",
+    "title": "Graduate Teaching Assistant",
+    "content": "[TBD] Email: your-email@gmu.edu Office Hours: [TBD] . Office hours will be held virtually unless otherwise announced. Please check announcements on Canvas for Zoom links and any updates. ",
+    "url": "/cs580/staff.html#graduate-teaching-assistant",
+    
+    "relUrl": "/staff.html#graduate-teaching-assistant"
+  },"37": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "/cs580/staff.html",
+    
+    "relUrl": "/staff.html"
+  },"38": {
+    "doc": "Syllabus",
+    "title": "Course Syllabus – CS580",
+    "content": " ",
+    "url": "/cs580/syllabus.html#course-syllabus--cs580",
+    
+    "relUrl": "/syllabus.html#course-syllabus--cs580"
+  },"39": {
+    "doc": "Syllabus",
+    "title": "Table of Contents",
+    "content": ". | Course Materials | Class Participation and Required Readings | Grading Breakdown | Course Policies . | Submission | Late Policy | Academic Integrity | . | Tools and Platforms | Accessibility and Accommodations | Contact and Communication | . ",
+    "url": "/cs580/syllabus.html#table-of-contents",
+    
+    "relUrl": "/syllabus.html#table-of-contents"
+  },"40": {
+    "doc": "Syllabus",
+    "title": "Course Materials",
+    "content": "All materials can be accessed on Canvas. ",
+    "url": "/cs580/syllabus.html#course-materials",
+    
+    "relUrl": "/syllabus.html#course-materials"
+  },"41": {
+    "doc": "Syllabus",
+    "title": "Class Participation and Required Readings",
+    "content": "Class attendance is required. ",
+    "url": "/cs580/syllabus.html#class-participation-and-required-readings",
+    
+    "relUrl": "/syllabus.html#class-participation-and-required-readings"
+  },"42": {
+    "doc": "Syllabus",
+    "title": "Grading Breakdown",
+    "content": ". | Homework: 30% | Projects: 25% | Quizzes: 5% | Midterm Exam: 20% | Final Exam: 20% | . Unless expressly indicated, all homework must be completed with a text editor (Word, PowerPoint, LaTeX, etc.) and delivered in pdf format. Please note that scanned Apple Pencil (or similar) notes are considered handwritten; Work performed in this manner will be penalized as specified in the task description/rubric. ",
+    "url": "/cs580/syllabus.html#grading-breakdown",
+    
+    "relUrl": "/syllabus.html#grading-breakdown"
+  },"43": {
+    "doc": "Syllabus",
+    "title": "Course Policies",
+    "content": "Submission . All homework and projects must be submitted via Gradescope only. This is required for academic integrity and proper grading. A late or missed assignment or quiz is simply missed, unless you have a doctor-certified illness on the day of the deadline that prevents you from submitting. In this scenario, contact the professor no later than 48 hours after the due date and attach the supporting documentation described; otherwise, your case will be dismissed. A submission is considered on time if it is submitted electronically on Gradescope on or before the required submission date/time. Once the submission link is closed, it will not be reopened, and email submissions are not accepted. Each assignment has a specific link for submission, so you must ensure that the correct files are submitted to the corresponding link. For example, if Homework 1 is submitted via the Homework 2 link, it will be marked as an “incorrect submission”, and a grade of 0 will be assigned. You can avoid this by taking a few extra minutes to review your submission after uploading it. It is the responsibility of the student to verify that the files are correct. Please note that resubmissions are not accepted due to wrong file submissions or files that can’t be open. Waiting until the last minute may result in submission errors or failure to submit altogether. Please note that network connection failures or instability will not be accepted as an excuse for late or missed submissions, as there is ample time provided for submission. Submissions via unofficial channels—such as email, chat, or Canvas—will not be accepted or graded. Late Policy . Late submissions will incur a 10% deduction per day unless otherwise noted. Each homework and project allows up to 2 late days maximum. After that, the Gradescope link will be closed, and no further submission will be accepted. Academic Integrity . While conceptual collaboration is encouraged, all submitted homework must be your own. For programming projects, groups of up to 4 students are permitted. Ensure all contributions are clearly documented. ",
+    "url": "/cs580/syllabus.html#course-policies",
+    
+    "relUrl": "/syllabus.html#course-policies"
+  },"44": {
+    "doc": "Syllabus",
+    "title": "Tools and Platforms",
+    "content": ". | Canvas: All announcements and quizzes | Gradescope: Homework and project submission | . ",
+    "url": "/cs580/syllabus.html#tools-and-platforms",
+    
+    "relUrl": "/syllabus.html#tools-and-platforms"
+  },"45": {
+    "doc": "Syllabus",
+    "title": "Accessibility and Accommodations",
+    "content": "Students with disabilities are encouraged to contact the Office of Disability Services and notify the instructor at the start of the semester. ",
+    "url": "/cs580/syllabus.html#accessibility-and-accommodations",
+    
+    "relUrl": "/syllabus.html#accessibility-and-accommodations"
+  },"46": {
+    "doc": "Syllabus",
+    "title": "Contact and Communication",
+    "content": "Please allow 24–48 hours for email replies. Use your GMU email and include “CS580” in the subject line to help with filtering and prioritization. Emails that do not follow this guideline may be delayed or missed entirely due to high volume and spam filtering. ",
+    "url": "/cs580/syllabus.html#contact-and-communication",
+    
+    "relUrl": "/syllabus.html#contact-and-communication"
+  },"47": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "/cs580/syllabus.html",
+    
+    "relUrl": "/syllabus.html"
+  }
+}
