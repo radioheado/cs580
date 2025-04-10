@@ -11,11 +11,14 @@ This page contains curated videos and materials to help you understand basic sea
 
 ## Videos
 
-### Introduction to Search
-<iframe width="560" height="315" src="https://www.youtube.com/embed/example_id_1" title="Introduction to Search" frameborder="0" allowfullscreen></iframe>
+### Greedy Best First Search
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dv1m3L6QXWs?si=S8xc_gF181dIL0fX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Uninformed Search Strategies
-<iframe width="560" height="315" src="https://www.youtube.com/embed/example_id_2" title="Uninformed Search" frameborder="0" allowfullscreen></iframe>
+### Uniform Cost Search
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dRMvK76xQJI?si=ignK372dcoNSNYGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Informed Search (Heuristics & A*)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/example_id_3" title="Informed Search" frameborder="0" allowfullscreen></iframe>
+### A* Search
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6TsL96NAZCo?si=VdzjqrCgezMTtDOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Minimax with Alpha Beta Pruning
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zp3VMe0Jpf8?si=Am3s3UKPzH2MZqoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

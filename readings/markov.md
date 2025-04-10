@@ -11,11 +11,9 @@ This page contains videos and resources to help you understand Markov chains and
 
 ## Videos
 
-### What is a Markov Chain?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/example_id_4" title="What is a Markov Chain?" frameborder="0" allowfullscreen></iframe>
+### Intro to Markov Chains & Transition Diagrams
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rHdX3ANxofs?si=voeBAjCzACxgl9Ln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Markov Models in AI
-<iframe width="560" height="315" src="https://www.youtube.com/embed/example_id_5" title="Markov Models in AI" frameborder="0" allowfullscreen></iframe>
+### Markov Chains & Transition Matrices
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1GKtfgwf3ig?si=R1FnebuyYuGaIUvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-> {: .note }
-> These videos complement lectures and assignments related to probabilistic models.
